@@ -2,7 +2,7 @@
 
 **BiteBuddy** is a simple recipe chatbot designed to help you find delicious meal ideas based on the ingredients you have. Built using Streamlit, LangChain, and Google's Gemini model, it filters out non-cooking-related queries, ensuring focused and relevant responses for your kitchen adventures.
 
-**Visit the deployed app:** 
+**Visit the deployed app:** [here](https://bitebuddy-bhuman.streamlit.app/)
 
 ## Features
 - Powered by **LangChain** and **Google Gemini API**.
