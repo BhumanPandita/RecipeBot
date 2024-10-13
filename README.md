@@ -22,7 +22,7 @@
    pip install -r requirements.txt
 4. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run main2.py
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the License file for details.
