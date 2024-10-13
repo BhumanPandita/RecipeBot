@@ -44,10 +44,6 @@ Also never start the messages with like AI: or Human:
 conversation.memory.chat_memory.add_message(SystemMessage(content = system_message))
 
 # Now lets setup the Frontend using StreamLit
-st.set_page_config(
-    page_title="RecipeBot",
-    page_icon="🧑🏻‍🍳",
-)
 st.title("🧑🏻‍🍳 RecipeBot")
 st.subheader("✅ Your Personal Recipe Assistant - Let's Cook!")
 
